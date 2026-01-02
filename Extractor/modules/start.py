@@ -52,7 +52,7 @@ from bs4 import BeautifulSoup
 import base64
 
 thumb_path = "Extractor/thumbs/txt-5.jpg"
-THREADPOOL = ThreadPoolExecutor(max_workers=2000)
+THREADPOOL = ThreadPoolExecutor(max_workers=200)
 TIMEOUT = 300  # 5 minutes timeout
 
 buttons = InlineKeyboardMarkup([
