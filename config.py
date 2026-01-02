@@ -7,7 +7,7 @@ API_ID = int(os.environ.get("API_ID", "27433400"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","1a286620de5ffe0a7d9b57e604293555")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8282655063:AAFKE7fkSPMg_nEiaV1gTKY87JK7Jgd-y7s")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@PRO_TXT_EXTRATOR_BOT")
 BOT_TEXT = "@Saini_extractor_bot"
@@ -20,7 +20,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003510568146"))
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003517811023")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("")
+MONGO_URL = os.environ.get("mongodb+srv://niravpatel180503_db_user:vjWNaWhRk0gMSNyQ@cluster0.26bfgmf.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003641539262"))
 # -----------------------------------------------
