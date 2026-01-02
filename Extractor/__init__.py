@@ -18,9 +18,9 @@ logging.basicConfig(
 
 app = Client(
     "Extractor",
-    api_id=API_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN,
+    api_id=27433400,
+    api_hash="1a286620de5ffe0a7d9b57e604293555",
+    bot_token="8282655063:AAFKE7fkSPMg_nEiaV1gTKY87JK7Jgd-y7s",
     workdir="sessions",
     workers=200,
 )
